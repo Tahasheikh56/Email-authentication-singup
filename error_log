@@ -1,0 +1,2 @@
+[30-Nov-2023 22:28:29 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/osuonmie/public_html/fiver-project/mail.php:19) in /home2/osuonmie/public_html/fiver-project/mail.php on line 52
+[30-Nov-2023 22:49:28 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/osuonmie/public_html/fiver-project/mail.php:12) in /home2/osuonmie/public_html/fiver-project/mail.php on line 41
